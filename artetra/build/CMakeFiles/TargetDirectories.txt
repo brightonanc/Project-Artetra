@@ -1,0 +1,3 @@
+/media/brighton/storage/Personal-Studies/Project-Artetra/artetra/build/CMakeFiles/edit_cache.dir
+/media/brighton/storage/Personal-Studies/Project-Artetra/artetra/build/CMakeFiles/rebuild_cache.dir
+/media/brighton/storage/Personal-Studies/Project-Artetra/artetra/build/CMakeFiles/artetra.dir

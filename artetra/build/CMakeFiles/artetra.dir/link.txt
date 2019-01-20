@@ -1,0 +1,1 @@
+/usr/bin/c++    -Werror -Wall -g   CMakeFiles/artetra.dir/board.cpp.o CMakeFiles/artetra.dir/max_heap_board.cpp.o CMakeFiles/artetra.dir/max_heap_board_move.cpp.o CMakeFiles/artetra.dir/board_insertion_sorter.cpp.o CMakeFiles/artetra.dir/move_insertion_sorter.cpp.o CMakeFiles/artetra.dir/artetra.cpp.o  -o artetra -rdynamic 
